@@ -1,4 +1,4 @@
-﻿CREATE DATABASE QuanLySinhVien
+CREATE DATABASE QuanLySinhVien
 ON PRIMARY 
 (
     NAME = QuanLySinhVien_Data,

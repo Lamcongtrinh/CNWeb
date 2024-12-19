@@ -1,4 +1,4 @@
-﻿CREATE DATABASE QLKhachHang
+CREATE DATABASE QLKhachHang
 ON PRIMARY 
 (
     NAME = QLKhachHang_Data,
